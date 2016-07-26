@@ -1,8 +1,8 @@
-# La Fundación Desarrollo Tecnológico Amazónico
+# La Fundación de Desarrollo Tecnológico Amazónico
 
 ## Objetivo
 
-El objetivo de la Fundación Desarrollo Tecnológico Amazónico es promover la 
+El objetivo de La Fundación de Desarrollo Tecnológico Amazónico es promover la 
 investigación y desarrollo, e innovación tecnológica en la región geográfica y
 estados que componen la selva Amazónica.
 
